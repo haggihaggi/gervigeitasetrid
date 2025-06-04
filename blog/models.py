@@ -12,7 +12,7 @@ from taggit.models import TaggedItemBase
 from modelcluster.contrib.taggit import ClusterTaggableManager
 from modelcluster.fields import ParentalKey, ParentalManyToManyField
 
-
+#test
 
 
 class BlogIndexPage(Page):
